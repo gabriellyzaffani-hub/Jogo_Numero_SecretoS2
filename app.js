@@ -5,7 +5,7 @@ let chute;
 let tentativas = 1;
 
 while(chute!= numeroSecreto){ 
-    chute = prompt("Digite um nÚmero de 1 a 100");
+    chute = prompt("Digite um número de 1 a 100");
 
 
 if (chute==numeroSecreto){
